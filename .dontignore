@@ -1,0 +1,13 @@
+file -src/app/api-keys.ts
+
+export var marsRoverKey = "9mt8JrrPJ2hTchhBTxBunzz4WA4SOdC97thLsW72"
+
+
+export var masterFirebaseConfig = {
+  apiKey: "AIzaSyC_K_oE-TuO-kHbPct7LDXV0pmgT_kcrZI",
+  authDomain: "marsrover-4c22c.firebaseapp.com",
+  databaseURL: "https://marsrover-4c22c.firebaseio.com",
+  projectId: "marsrover-4c22c",
+  storageBucket: "marsrover-4c22c.appspot.com",
+  messagingSenderId: "663021099110"
+};

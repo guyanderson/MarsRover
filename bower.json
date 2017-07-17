@@ -6,7 +6,7 @@
     "guy <luckythelich@hotmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/guyanderson/MarsRover",
   "ignore": [
     "**/.*",
     "node_modules",
