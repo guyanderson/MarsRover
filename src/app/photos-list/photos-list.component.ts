@@ -15,7 +15,7 @@ export class PhotosListComponent {
 
   constructor(private photoService: PhotoService) { }
 
-  saveImage(imgURL: string, camera: string, date: string) {
+  savePhoto(imgURL: string, camera: string, date: string) {
     let newPhoto: Photo = new Photo(imgURL, camera, date);
     this.photoService.addPhoto(newPhoto);
     alert('This image has been added to your list of saved images.');
